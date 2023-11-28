@@ -13,4 +13,4 @@ The trained model is available [here](https://drive.google.com/file/d/1UtZCClx2A
 
 ## dependencies
 
-The sort module needs to be downloaded from [this repository](https://github.com/abewley/sort) as mentioned in the [video](https://youtu.be/fyJB1t0o0ms?t=1120).
+The sort module needs to be downloaded from [this repository](https://github.com/abewley/sort).
