@@ -1,5 +1,10 @@
 # automatic-number-plate-recognition-python-yolov8
 
+I developed a real-time system capable of detecting UK license plates within images and video streams, while also
+extracting and reading the alphanumeric content in real time. The project integrates advanced computer vision and
+machine learning techniques to achieve accurate and instantaneous recognition of UK license plates, showcasing
+proficiency in real-time object detection and optical character recognition (OCR).
+
 ## data
 
 The video I used in this project can be downloaded [here](https://drive.google.com/file/d/1YmHTElM6rh5uBpvaoUYpYTHK2odJkoM6/view?usp=drive_link).
